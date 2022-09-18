@@ -4,6 +4,8 @@
 
 A Helm Chart for PowershellUniversal - The ultimate platform for building web-based IT Tools
 
+**Homepage:** <https://ironmansoftware.com/powershell-universal>
+
 ## Usage
 
 [Helm](https://helm.sh) must be installed to use the charts. Please refer to
