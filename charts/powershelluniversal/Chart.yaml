@@ -1,6 +1,6 @@
 apiVersion: v2
 name: powershelluniversal
-description: Universal - The ultimate platform for building web-based IT Tools
+description: A Helm Chart for PowershellUniversal - The ultimate platform for building web-based IT Tools
 
 # A chart can be either an 'application' or a 'library' chart.
 #
