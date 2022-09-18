@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  powershelluniversal:
+  - apiVersion: v2
+    appVersion: 3.3.1-ubuntu-20.04
+    created: "2022-09-18T01:38:27.886552193Z"
+    description: Universal - The ultimate platform for building web-based IT Tools
+    digest: e8f7cf60e58207190aef34c2166f176494950b122cce69ca9e9d341bd2bd3187
+    name: powershelluniversal
+    type: application
+    urls:
+    - https://github.com/ryjogo/digitalhub/releases/download/powershelluniversal-0.1.0/powershelluniversal-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-18T01:38:27.740253006Z"
