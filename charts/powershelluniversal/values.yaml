@@ -84,3 +84,11 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+extraEnv: []
+#- name: HTTP_PROXY
+#  value: http://proxy.domain.tld
+#- name: HTTPS_PROXY
+#  value: http://proxy.domain.tld
+#- name: NO_PROXY
+#  value: domain.tld, domain.local
