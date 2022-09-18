@@ -25,3 +25,7 @@ appVersion: '1.5x'
 home: "https://phpipam.net/"
 sources:
   - "https://github.com/phpipam/phpipam"
+
+maintainers:
+  - name: Ryan Gough
+    email: ryan@digitalhub.dk
