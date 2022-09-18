@@ -4,6 +4,12 @@
 
 A Helm chart for phpIpam - Open source IP address management
 
+**Homepage:** <https://phpipam.net/>
+
+## Source Code
+
+* <https://github.com/phpipam/phpipam>
+
 ## Usage
 
 [Helm](https://helm.sh) must be installed to use the charts. Please refer to
