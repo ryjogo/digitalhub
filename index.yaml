@@ -1,5 +1,19 @@
 apiVersion: v1
 entries:
+  phpipam:
+  - apiVersion: v2
+    appVersion: 1.5x
+    created: "2022-09-18T13:41:03.417351767Z"
+    description: A Helm chart for phpIpam - Open source IP address management
+    digest: b3a83a8580af15a585eeafbc386a72d5213455ba2511ef0b5ab8e02047fe731a
+    home: https://phpipam.net/
+    name: phpipam
+    sources:
+    - https://github.com/phpipam/phpipam
+    type: application
+    urls:
+    - https://github.com/ryjogo/digitalhub/releases/download/phpipam-0.1.1/phpipam-0.1.1.tgz
+    version: 0.1.1
   powershelluniversal:
   - apiVersion: v2
     appVersion: 3.3.1-ubuntu-20.04
@@ -31,4 +45,4 @@ entries:
     urls:
     - https://github.com/ryjogo/digitalhub/releases/download/powershelluniversal-0.1.0/powershelluniversal-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-18T07:32:14.49683304Z"
+generated: "2022-09-18T13:41:03.417362767Z"
